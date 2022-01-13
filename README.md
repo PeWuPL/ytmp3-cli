@@ -29,5 +29,5 @@ You will be prompted about the rest.
 ## Bugs
 If you find bugs or errors, make a ticket, I should answer it shortly.  
 Now I should recommend some other repositories, but I think that's a bad idea.  
-Screenshot of program:
+Screenshot of program:  
 ![image](https://user-images.githubusercontent.com/42903478/149354464-bd1c9357-b58e-4b47-afc3-7c3a4718f82a.png)
