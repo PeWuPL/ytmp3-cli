@@ -1,0 +1,20 @@
+{
+  "name": "ytmp3.cc-cli",
+  "version": "1.0.0",
+  "description": "YTMp3.cc Converter in Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PeWu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "--"
+  },
+  "keywords": [
+    "ytmp3",
+    "converter",
+    "cli"
+  ]
+}
