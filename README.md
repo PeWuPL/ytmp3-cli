@@ -15,13 +15,19 @@ But - it requires Node.js and some modules.
 Readline  
 Form-Data  
 fs, child_process, https, util (Those are bundled with Node.js)  
-
 It's a bit of a hassle for something that simple, so I remade it in bash.  
+#### How to run:
+`node index.js` should work fine.  
 ## Bash version
 This one is simpler, using only curl to fetch data.  
 It loses the functionality to see file size before downloading.  
 (I can't recreate the same mechanism like in JavaScript version)  
 <i>Although make sure to have curl installed.</i>  
+#### How to run:
+`./index.sh`  
+You will be prompted about the rest.
 ## Bugs
 If you find bugs or errors, make a ticket, I should answer it shortly.  
-Now I should recommend some other repositories, but I think that's a bad idea.
+Now I should recommend some other repositories, but I think that's a bad idea.  
+Screenshot of program:
+![image](https://user-images.githubusercontent.com/42903478/149354464-bd1c9357-b58e-4b47-afc3-7c3a4718f82a.png)
